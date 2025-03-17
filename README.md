@@ -3,7 +3,7 @@
 Electronics & Communication Engg. Student @ VIT Vellore<br/>
 Secretary @ IEEE CAS Chapter VIT<br/>
 I am passionate about IoT and Embedded Systems<br/>
-I have started to learn Machine learning algorithms
+I have started to learn Machine learning algorithms<br/>
 Did I cook ?? --> https://resistator.netlify.app/
 
 
